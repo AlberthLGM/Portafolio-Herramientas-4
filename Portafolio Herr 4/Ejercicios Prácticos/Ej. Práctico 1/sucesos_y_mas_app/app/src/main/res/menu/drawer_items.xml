@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/grupo1"
+        >
+
+        <item
+            android:icon="@drawable/inicio_icon"
+            android:id="@+id/navInicio"
+            android:title="Inicio"  />
+
+        <item
+            android:icon="@drawable/clientes_icon"
+            android:id="@+id/navClientes"
+            android:title="Clientes"  />
+    </group>
+
+    <group
+        android:id="@+id/grupo2"
+        >
+        <item
+            android:icon="@drawable/servicios_icon"
+            android:id="@+id/navServicios"
+            android:title="Servicios"  />
+
+        <item
+            android:icon="@drawable/ubicacion_icon"
+            android:id="@+id/navUbicacion"
+            android:title="Ubicación"/>
+
+    </group>
+
+    <group
+        android:id="@+id/grupo3"
+        >
+        <item
+            android:icon="@drawable/contacto_icon"
+            android:id="@+id/navContactos"
+            android:title="Contactos"  />
+    </group>
+
+
+
+
+
+</menu>

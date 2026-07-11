@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sucesos_y_mas_app</string>
+    <string name="Username">Username</string>
+    <string name="Titulo_app">Sucesos y más</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ContentDescriptionMenuLogo">Menu logo</string>
+    <string name="SucesosymasInstagram">\@sucesosymasch</string>
+</resources>
