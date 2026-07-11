@@ -1,0 +1,7 @@
+com.example.sucesos_y_mas_app-pngs-0 C:\Users\alb05\AndroidStudioProjects\sucesos_y_mas_app\app\build\generated\res\pngs\debug
+com.example.sucesos_y_mas_app-updated_navigation_xml-1 C:\Users\alb05\AndroidStudioProjects\sucesos_y_mas_app\app\build\generated\updated_navigation_xml\debug
+com.example.sucesos_y_mas_app-packageDebugResources-2 C:\Users\alb05\AndroidStudioProjects\sucesos_y_mas_app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.sucesos_y_mas_app-packageDebugResources-3 C:\Users\alb05\AndroidStudioProjects\sucesos_y_mas_app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.sucesos_y_mas_app-debug-4 C:\Users\alb05\AndroidStudioProjects\sucesos_y_mas_app\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.sucesos_y_mas_app-debug-5 C:\Users\alb05\AndroidStudioProjects\sucesos_y_mas_app\app\src\debug\res
+com.example.sucesos_y_mas_app-main-6 C:\Users\alb05\AndroidStudioProjects\sucesos_y_mas_app\app\src\main\res
